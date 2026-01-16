@@ -1,13 +1,17 @@
 
 ## Benjamin Ford
+## About Me
 
-* I am a Senior at Western Colorado University perusing a Bachelor's degree in Computer Science with a emphasis in Machine Learning and a Minor in Math. 
+I am a senior at Western Colorado University pursuing a Bachelor’s degree in Computer Science with an emphasis in Machine Learning and a minor in Mathematics.
 
-## What got me started
+## What Got Me Started
 
-* While in middle school I played a lot of moded Minecraft. I really wanted to make my own Minecraft mods but I soon found that I was out of my league. 
-This attempt at coding sparked my interest in computer science. Throughout Highschool I made simple games and algorithms which lead me to peruse a degree in Computer Science.
+My interest in computer science began in middle school, where I spent a significant amount of time playing modded Minecraft. I wanted to create my own mods but quickly realized that the task was beyond my skill level at the time. That challenge sparked my curiosity about programming and problem-solving.
 
-## Future Goals
-* My future goals are to graduate with my bachelors and find a job in Machine Learning, Data Development, Data Analysis, or Software Development. My Ideal company is one focused on helping people either through medical software, machine learning algortithms to detect diseases or a company focused on enviormental conservation. Outside of academics my goal is to travel around the world and catch every kind of fish.
+Throughout high school, I continued developing my skills by creating simple games and algorithms, which ultimately led me to pursue a degree in Computer Science.
 
+Future Goals
+
+My short-term goal is to graduate with my bachelor’s degree and begin a career in Machine Learning, Data Engineering, Data Analysis, or Software Development. Ideally, I would like to work for a company that focuses on making a positive impact—such as developing medical software, building machine learning systems for disease detection, or supporting environmental conservation efforts.
+
+Outside of academics and professional development, I aim to travel extensively and pursue my lifelong goal of catching as many different species of fish as possible.
