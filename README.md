@@ -2,7 +2,7 @@
 ## Benjamin Ford
 ## About Me
 
-I am a senior at Western Colorado University pursuing a Bachelor’s degree in Computer Science with an emphasis in Machine Learning and a minor in Mathematics.
+I am a recent graduate of Western Colorado University with a Bachelor’s degree in Computer Science with an emphasis in Machine Learning and a minor in Mathematics.
 
 ## What Got Me Started
 
